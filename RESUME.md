@@ -1,6 +1,7 @@
 Hey Guys!
 
-<!--
+My name is Isabella Fratantonio and I am a computer science major
+I am expected to graduate in Spring of 2027
 **bellafratantonio/bellafratantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
